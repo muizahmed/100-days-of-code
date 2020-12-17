@@ -1,2 +1,2 @@
 # 100-days-of-code
-Angela Yu's Python 100 Days of Code on Udemy 
+On 20th November, 2020, I started 100 Days of Code Python Course by Angela Yu on Udemy.

@@ -17,6 +17,7 @@
 1. The Famous Snake Game - Part II
    * Continued building the Snake game using Turtle module
    * The project is now completed and the game is fully functional
+   * GitHub link: https://github.com/muizahmed/snake-game
 ### Learnt about:
 * Using screen.write() function from Turtle
 * Further Object-Oriented Programming

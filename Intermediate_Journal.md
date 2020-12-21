@@ -12,7 +12,7 @@
 * Further onkey() method from Turtle
 * Problem-solving skills in general
 
-## Day 20 
+## Day 21
 * Took two days to complete the content from Day 21. Didn't enjoy making the Snake game as much as I expected, Angela changed the format for this part from code challenges to coding along. Didn't get to test if I understood the code fully, plan to improve this projects and make tweaks to it later on by myself.
 1. The Famous Snake Game - Part II
    * Continued building the Snake game using Turtle module
